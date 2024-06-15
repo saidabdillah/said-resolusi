@@ -4,10 +4,11 @@ Rencana Belajar
   Selasa
     Jika Tidak Pergi Ke Majlis Guru Danau
       - ReactJs
-      - NextJs
+          - Laravel
   Rabu
     - Laravel11
     - TailwindCSS
     - AlpineJs
+    - Livewire
   Kamis
     - Git
