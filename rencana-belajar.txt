@@ -2,8 +2,9 @@ Rencana Belajar
   Senin
     - Tugas Kuliah
   Selasa
-    - ReactJs
-    - NextJs
+    Jika Tidak Pergi Ke Majlis Guru Danau
+      - ReactJs
+      - NextJs
   Rabu
     - Laravel11
     - TailwindCSS
