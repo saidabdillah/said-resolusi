@@ -2,8 +2,11 @@ Rencana Belajar
   Senin
     - Tugas Kuliah
   Selasa
-    - Reactjs
+    - ReactJs
+    - NextJs
   Rabu
     - Laravel11
+    - TailwindCSS
+    - AlpineJs
   Kamis
     - Git
