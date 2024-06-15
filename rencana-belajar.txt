@@ -1,0 +1,12 @@
+Rencana Belajar
+  Senin
+    - Tugas Kuliah
+  Selasa
+    - ReactJs
+    - NextJs
+  Rabu
+    - Laravel11
+    - TailwindCSS
+    - AlpineJs
+  Kamis
+    - Git
